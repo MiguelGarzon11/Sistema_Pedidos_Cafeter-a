@@ -25,4 +25,4 @@ Este es un programa desarrollado en Python que permite administrar los pedidos d
    
    python Sistema_pedidos_cafeteria.py
 
-# Sigue las instrucciones en pantalla para gestionar los pedidos.
+- Sigue las instrucciones en pantalla para gestionar los pedidos.
