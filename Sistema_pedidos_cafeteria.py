@@ -29,8 +29,8 @@ def agregar_pedido():
 
             elif opcion == 6:
                 print("\n¡Gracias por elegir nuestros productos!\n")
-                pedidos.append(pedido_actual)  # Se guarda el pedido en la lista de pedidos
-                pila_deshacer.append(pedido_actual.copy())  # Se almacena una copia para deshacer
+                pedidos.append(pedido_actual)  
+                pila_deshacer.append(pedido_actual.copy())  
                 break
 
             else:
